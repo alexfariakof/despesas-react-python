@@ -10,9 +10,9 @@
 
 <h6># <a href="https://create-react-app.dev/docs/getting-started/" target="_blank" >ReactJs</a></h6>
 
-<h6># <a href="https://www.python.org/downloads/" target="_blank" >Python</a></h6>/h6>
+<h6># <a href="https://www.python.org/downloads/" target="_blank" >Python</a></h6>
 
-<h6># <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" >Python</a></h6>/h6>
+<h6># <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" >fLASK</a></h6>/h6>
 
 
 <h2 align="left">
