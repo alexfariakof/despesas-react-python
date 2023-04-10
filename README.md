@@ -18,6 +18,7 @@
 <h2 align="left">
 # Aplicação rodando
 </h2>
-![alt text](https://github.com/alexfariakof/react_and_python/blob/827f03f9c28c0ce735795283fd6c6e88683f41a1/.telas/reac_python.png)
+![alt text](https://github.com/alexfariakof/react_and_python/blob/main/.telas/reac_python.png)
+
 
 
